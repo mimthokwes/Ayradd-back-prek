@@ -1,0 +1,12 @@
+node_modules
+.git
+.github
+.env
+.env.*
+!.env.example
+uploads/products/*
+!uploads/products/.gitkeep
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+docker-compose*.yml
